@@ -1,2 +1,2 @@
 # robot-python-demo
-Testing demo for mobile app using robot framework and python
+Testing mobile app on android using robot framework and python
